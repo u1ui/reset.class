@@ -1,6 +1,5 @@
 .u1-reset {
-	font-size:1rem;
-
+	font-size:1rem; /* hm.. i rewrite font-size on the body to implement a min-fonts-size */
 	color:var(--color-text);
 	background-color:var(--color-bg);
 }
