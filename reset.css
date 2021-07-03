@@ -1,5 +1,5 @@
 .u1-reset {
-	font-size:1rem; /* hm.. i rewrite font-size on the body to implement a min-fonts-size */
+	font-size:1rem; /* hm.. i rewrite font-size on the body to implement a min-fonts-size, better inherit? */
 	color:var(--color-text);
 	background-color:var(--color-bg);
 }
