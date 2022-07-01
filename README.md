@@ -24,6 +24,12 @@ button:hover {
 </div>
 ```
 
+```css
+h1 {
+    margin:0 2rem;
+}
+```
+
 ## Install
 
 ```html
@@ -32,7 +38,7 @@ button:hover {
 
 ## Demos
 
-[minimal.html](https://raw.githack.com/u1ui/reset.class/main/tests/minimal.html)  
+[minimal.html](http://gcdn.li/u1ui/reset.class@main/tests/minimal.html)  
 
 ## About
 
