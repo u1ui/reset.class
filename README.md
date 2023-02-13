@@ -33,7 +33,7 @@ h1 {
 ## Install
 
 ```html
-<link href="https://cdn.jsdelivr.net/gh/u1ui/reset.class@3.0.0/reset.min.css" rel=stylesheet>
+<link href="https://cdn.jsdelivr.net/gh/u1ui/reset.class@x.x.x/reset.min.css" rel=stylesheet>
 ```
 
 ## Demos
